@@ -368,7 +368,7 @@ public function delete($id)
 <p>Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.</p>
 
 ## Laporan Praktikum
-1. Melanjutkan praktikum sebelumnya pada repository dengan nama Lab8Web.
+1. Melanjutkan praktikum sebelumnya pada repository dengan nama Lab7Web.
 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
 3. Screenshot setiap perubahannya.
 4. Update file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta
